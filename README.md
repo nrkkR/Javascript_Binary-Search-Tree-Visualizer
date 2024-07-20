@@ -38,14 +38,18 @@ Upon opening the application, you will be greeted with the main interface where 
 
 ## Screenshots
 ### Main Interface
+<img align="center" alt="coding" width="600" src="https://github.com/nrkkR/Javascript_Pathfinder-Visualizer/blob/main/pathfinder%20visualizer.png">
 
 ### In-Order
+<img align="center" alt="coding" width="600" src="https://github.com/nrkkR/Javascript_Pathfinder-Visualizer/blob/main/pathfinder%20visualizer.png">
 
 
 ### Pre-Order
+<img align="center" alt="coding" width="600" src="https://github.com/nrkkR/Javascript_Pathfinder-Visualizer/blob/main/pathfinder%20visualizer.png">
 
 
 ### Post-Order
+<img align="center" alt="coding" width="600" src="https://github.com/nrkkR/Javascript_Pathfinder-Visualizer/blob/main/pathfinder%20visualizer.png">
 
 
 
