@@ -41,7 +41,7 @@ Upon opening the application, you will be greeted with the main interface where 
 <img align="center" alt="coding" width="800" src="https://github.com/nrkkR/Javascript_Binary-Search-Tree-Visualizer/blob/main/bst%20main%20menu.png">
 
 ### In-Order
-<img align="center" alt="coding" width="600" src="https://github.com/nrkkR/Javascript_Pathfinder-Visualizer/blob/main/pathfinder%20visualizer.png">
+<img align="center" alt="coding" width="600" src="https://github.com/nrkkR/Javascript_Binary-Search-Tree-Visualizer/blob/main/bst%20in%20order.png">
 
 
 ### Pre-Order
